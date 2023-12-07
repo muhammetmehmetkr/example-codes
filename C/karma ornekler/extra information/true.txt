@@ -1,0 +1,6 @@
+#include <stdbool.h>
+
+true fonksiyonu // genellikle for döngüsünde kullanılır..
+
+srand(time(0));
+her seferinde farklı değer verilmesini sağlar..
